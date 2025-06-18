@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guru
+###  Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 🎯 **Full Stack Developer | MERN Stack | Backend & Frontend | UI Enthusiast**  
 📍 Based in India | Passionate about building engaging and accessible web applications
@@ -14,10 +14,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gurunath-s-85129a217) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guruthedev20@gmail.com)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
