@@ -1,6 +1,6 @@
 Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="40">
 
-I'm **[Guru](https://gurunath.vercel.app)**, a software engineer and full-stack developer from India.
+I'm **[Guru](https://gurunath.vercel.app)**, a Full Stack engineer from India.
 
 I currently work as a **Full Stack Developer**, building web and mobile applications, backend systems, dashboards, and business applications. I mainly work with **React, Node.js, Express, databases, Prisma, and modern JavaScript technologies**.
 
