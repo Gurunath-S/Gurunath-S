@@ -9,5 +9,3 @@ I'm also exploring **AI engineering, AI-powered applications, automation, and bu
 I enjoy turning ideas into working products, learning by building, and experimenting with new technologies.
 
 📧 **[guruthedev20@gmail.com](mailto:guruthedev20@gmail.com)**
-💼 **[LinkedIn](https://linkedin.com/in/gurunath-s-85129a217)**
-🌐 **[Portfolio](https://gurunath.vercel.app)**
